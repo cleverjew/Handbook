@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<handbook>
+  <material>
+    <author>Ария</author>
+    <song>Волонтер</song>
+    <disk>Мания величия</disk>
+  </material>
+  <material>
+    <author>Ария</author>
+    <song>Жизнь задаром</song>
+    <disk>Мания величия</disk>
+  </material>
+  <material>
+    <author>Ария</author>
+    <song>Улица роз</song>
+    <disk>Мания величия</disk>
+  </material>
+  <material>
+    <author>Ария</author>
+    <song>Я вободен</song>
+    <disk>Герой асфальта</disk>
+  </material>
+  <material>
+    <author>Маваши</author>
+    <song>Турнички</song>
+    <disk>Качалочка</disk>
+  </material>
+  <material>
+    <author>Маваши</author>
+    <song>Турнички</song>
+    <disk>Падик</disk>
+  </material>
+</handbook>
