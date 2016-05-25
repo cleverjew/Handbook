@@ -11,16 +11,16 @@ C:\Users\Олег\Documents\Visual Studio 2015\Handbook\obj\Debug\Handbook.exe
 C:\Users\Олег\Documents\Visual Studio 2015\Handbook\obj\Debug\Handbook.pdb
 C:\Users\Олег\Documents\Visual Studio 2015\Handbook\obj\Debug\Handbook.Forms.Edit.resources
 C:\Users\Олег\Documents\Visual Studio 2015\Handbook\obj\Debug\Handbook.Forms.Search.resources
-C:\Users\Eugene\Desktop\Handbook\bin\Debug\Handbook.exe.config
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.exe
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.pdb
-C:\Users\Eugene\Desktop\Handbook\bin\Debug\Handbook.exe
-C:\Users\Eugene\Desktop\Handbook\bin\Debug\Handbook.pdb
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.csprojResolveAssemblyReference.cache
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.Forms.Add.resources
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.Forms.Del.resources
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.Forms.Edit.resources
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.Form1.resources
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.Forms.Search.resources
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.Properties.Resources.resources
-C:\Users\Eugene\Desktop\Handbook\obj\Debug\Handbook.csproj.GenerateResource.Cache
+C:\Users\Eugene\Desktop\My\Handbook\bin\Debug\Handbook.exe.config
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.exe
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.pdb
+C:\Users\Eugene\Desktop\My\Handbook\bin\Debug\Handbook.exe
+C:\Users\Eugene\Desktop\My\Handbook\bin\Debug\Handbook.pdb
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.Forms.Add.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.Forms.Del.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.Forms.Edit.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.Form1.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.Forms.Search.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.Properties.Resources.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.csproj.GenerateResource.Cache
+C:\Users\Eugene\Desktop\My\Handbook\obj\Debug\Handbook.csprojResolveAssemblyReference.cache

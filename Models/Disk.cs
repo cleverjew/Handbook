@@ -10,7 +10,7 @@ namespace Handbook.Models
     {
         public string name;
         public List<Material> ld;
-        
+        // Конструктор диска
         public Disk(string s)
         {
             name = s;

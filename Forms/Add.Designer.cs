@@ -108,7 +108,6 @@
             // 
             this.cd.Name = "cd";
             this.cd.Size = new System.Drawing.Size(121, 23);
-            this.cd.Click += new System.EventHandler(this.cd_Click);
             // 
             // Add
             // 

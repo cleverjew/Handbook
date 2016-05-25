@@ -12,19 +12,19 @@ namespace Handbook.Models
         public string author;
         public string song;
         public string cd;
-
+        // Конструктор для заполнения данных про композицию
         public Material(string a,string s, string c)
         {
             author = a;
             song = s;
             cd = c;
         }
-
+        // Переопределение метода ToString
         public override string ToString()
         {
             return $"Исполнитель: {author} Песня: {song} Диск: {cd}";
         }
-
+        // Метод добавления композиции
         public void Add()
         {
             XmlDocument doc = new XmlDocument();

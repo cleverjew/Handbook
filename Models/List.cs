@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using System.Xml;
 
 namespace Handbook.Models
-{
+{   
     public class List
-    {
+    {   // создание списка композиций
         public List<Material> lm
         {
             get
@@ -24,7 +24,7 @@ namespace Handbook.Models
                 return l;
             }
         }
-
+        // Создание списка дисков
         public List<Disk> lcd
         {
             get
@@ -60,7 +60,7 @@ namespace Handbook.Models
                 return l;
             }
         }
-
+        // Удаление композиции
         public void Delete(int a)
         {
             XmlDocument doc = new XmlDocument();
@@ -69,7 +69,7 @@ namespace Handbook.Models
             root.RemoveChild(root.ChildNodes[a]);
             doc.Save(@"../../Data/database.xml");
         }
-
+        // Поиск композиции
         public List<Material> Find(Material m)
         {
             List<Material> fn = new List<Material>();
@@ -82,7 +82,7 @@ namespace Handbook.Models
             }
             return fn;
         }
-
+        // Поиск номера композиции
         public int FindIndex(string s)
         {
             for (int i = 0; i < lm.Count; i++)

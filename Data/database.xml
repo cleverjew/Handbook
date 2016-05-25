@@ -21,13 +21,38 @@
     <disk>Герой асфальта</disk>
   </material>
   <material>
-    <author>Маваши</author>
-    <song>Турнички</song>
-    <disk>Качалочка</disk>
+    <author>Ozzy OsbourneI</author>
+    <song>I just want you</song>
+    <disk>Rock</disk>
   </material>
   <material>
-    <author>Маваши</author>
-    <song>Турнички</song>
-    <disk>Падик</disk>
+    <author>Ozzy Osbourne</author>
+    <song>Perry Mason</song>
+    <disk>Ozzmosis</disk>
+  </material>
+  <material>
+    <author>Rammstein</author>
+    <song>Dalai Lama</song>
+    <disk>Rock</disk>
+  </material>
+  <material>
+    <author>Ozzy Osbourne</author>
+    <song>Perry Mason</song>
+    <disk>Rock</disk>
+  </material>
+  <material>
+    <author>Ozzy Osbourne</author>
+    <song>I just want you</song>
+    <disk>Ozzmosis</disk>
+  </material>
+  <material>
+    <author>Led Zeppelin</author>
+    <song>Stairway to Heaven</song>
+    <disk>Rock</disk>
+  </material>
+  <material>
+    <author>123</author>
+    <song>qqq</song>
+    <disk>Rock</disk>
   </material>
 </handbook>

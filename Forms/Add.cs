@@ -36,10 +36,5 @@ namespace Handbook.Forms
                 }
             }
         }
-
-        private void cd_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

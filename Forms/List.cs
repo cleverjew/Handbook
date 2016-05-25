@@ -60,6 +60,7 @@ namespace Handbook
                 listBox1.Items.Add(l.lm[l.lm.Count - 1].ToString());
             }
             дискToolStripMenuItem.DropDownItems.Clear();
+            дискToolStripMenuItem.DropDownItems.Add(показатьВсеКомпозицииToolStripMenuItem);
             listBox1.Items.Clear();
             Form1_Load(sender,e);
         }
@@ -78,6 +79,7 @@ namespace Handbook
                 {
                     listBox1.Items.Remove(listBox1.SelectedItem);
                     дискToolStripMenuItem.DropDownItems.Clear();
+                    дискToolStripMenuItem.DropDownItems.Add(показатьВсеКомпозицииToolStripMenuItem);
                     listBox1.Items.Clear();
                     Form1_Load(sender, e);
                     del.Close();
@@ -102,6 +104,7 @@ namespace Handbook
                 if (edit.ShowDialog() == DialogResult.OK)
                 {
                     дискToolStripMenuItem.DropDownItems.Clear();
+                    дискToolStripMenuItem.DropDownItems.Add(показатьВсеКомпозицииToolStripMenuItem);
                     listBox1.Items.Clear();
                     Form1_Load(sender, e);
                 }
@@ -133,6 +136,11 @@ namespace Handbook
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void менюToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

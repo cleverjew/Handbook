@@ -70,6 +70,7 @@
             this.менюToolStripMenuItem.Name = "менюToolStripMenuItem";
             this.менюToolStripMenuItem.Size = new System.Drawing.Size(88, 20);
             this.менюToolStripMenuItem.Text = "Композиция";
+            this.менюToolStripMenuItem.Click += new System.EventHandler(this.менюToolStripMenuItem_Click);
             // 
             // добавитьToolStripMenuItem
             // 

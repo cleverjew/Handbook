@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Handbook.Models.Disk">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Disk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Handbook.Models.List">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAAgAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\List.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Handbook.Models.Material" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAAAAAIAAAAAIAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Handbook.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

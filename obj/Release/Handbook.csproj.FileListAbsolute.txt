@@ -1,0 +1,13 @@
+C:\Users\Eugene\Desktop\My\Handbook\bin\Release\Handbook.exe.config
+C:\Users\Eugene\Desktop\My\Handbook\bin\Release\Handbook.exe
+C:\Users\Eugene\Desktop\My\Handbook\bin\Release\Handbook.pdb
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.Forms.Add.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.Forms.Del.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.Forms.Edit.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.Form1.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.Forms.Search.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.Properties.Resources.resources
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.csproj.GenerateResource.Cache
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.exe
+C:\Users\Eugene\Desktop\My\Handbook\obj\Release\Handbook.pdb
